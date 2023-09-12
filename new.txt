@@ -1,1 +1,2 @@
 hii hello.how are you?
+m trying to learn some git commands.
